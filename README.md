@@ -6,7 +6,7 @@ A Chat System to communicate b/w Server and client. Implemented using TCP socket
 •	Upon startup, request the server's IP address from the user. Attempt to join to that server. 
 •	When a message is received from the server, print it out.
 •	Help command. Syntax: /help
-o	This command should print out a list of all supported commands and their behaviors
+o	      This command should print out a list of all supported commands and their behaviors
 •	Users command. Syntax /users
 o	This command should request a list of users from the server and then print out their names.
 •	Direct Message command. Syntax: /dm username "message"
